@@ -1,4 +1,4 @@
-package com.digitalinnovation.livecoding.config;
+package com.personal.config;
 
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.BasicAWSCredentials;
